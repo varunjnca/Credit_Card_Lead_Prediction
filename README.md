@@ -1,4 +1,4 @@
-# hack-a-thon
+# Credit Card Lead Prediction
 Problem Statement:
 
 Credit Card Lead Prediction
